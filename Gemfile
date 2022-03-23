@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby "2.2"
+ruby "2.3.0"
 gem 'rails', '5.2.4'
 gem 'pg'
 gem 'dotenv-rails'
